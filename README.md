@@ -58,14 +58,14 @@ Installed node.js and any IDE like Visual Studio Code.
 ### Setup
 
 Clone this repository to your desired folder:
-git@github.com:Innocent259/To-Do-list.git
+https://github.com/Innocent259/Todo-list-code-review.git
 
-Change directory To-Do-list in your terminal
+Change directory Todo-list-code-review in your terminal
 ### Install
 
 Install this project with:
 
-Run npm install --save to install dependencies of this project.
+Run npm install --save to install all dependencies of this project.
 
 ### Usage
 
@@ -85,7 +85,7 @@ Run npm dev to view the project on local host(npm run dev)
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Editing added Items]**
+- [ ] **[Adding some CSS styles]**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
